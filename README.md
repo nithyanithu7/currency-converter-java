@@ -52,7 +52,7 @@ CurrencyConverter/
 ## ▶️ How to Run the Program
 
 ### 🔹 Online Compiler
-1. Paste the code into `Main.java`
+1. write the code into `Main.java`
 2. Click **Run**
 3. Follow the on-screen instructions
 
